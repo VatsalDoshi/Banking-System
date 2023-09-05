@@ -2,6 +2,9 @@
 
 Project developed during my Internship at The Sparks Foundation
 
+![image](https://github.com/VatsalDoshi/Banking-System/assets/114709734/7bce3e5b-7d9f-4653-be2f-e6ad7293a3bb)
+
+
 # AIM
 Create a simple dynamic website which has the following specs.
 
